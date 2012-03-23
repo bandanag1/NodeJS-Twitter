@@ -1,0 +1,3 @@
+Modify your 'username' and 'password' in server.js
+Next run "node server.js"
+Then access the file index.html
